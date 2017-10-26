@@ -1,0 +1,1989 @@
+# depslib dependency file v1.0
+1240413746 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\gui.cpp
+	<fstream>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<windows.h>
+	"GUI.h"
+	<stdlib.h>
+	"random_num_gen.h"
+	"environment.h"
+	"agent.h"
+	"evaluator.h"
+
+1238541398 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\gui.h
+	<fstream>
+	"include/GL/glui.h"
+
+1208858522 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\gl\glui.h
+	"openglut.h"
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1207922190 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\gl\openglut.h
+	"openglut_std.h"
+	"openglut_ext.h"
+
+1208460342 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\gl\openglut_std.h
+	<windows.h>
+	"gl.h"
+	"glu.h"
+
+1107063320 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\gl\gl.h
+
+1208460414 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\gl\glu.h
+	<stddef.h>
+	"gl.h"
+
+1207922190 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\gl\openglut_ext.h
+
+1235575988 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\random_num_gen.h
+	<vector>
+
+1237149340 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\environment.h
+	<fstream>
+	"agent.h"
+
+1329840882 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\agent.h
+	<string>
+
+1237283772 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\evaluator.h
+	"agent.h"
+
+1329843087 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\agent.cpp
+	"agent.h"
+	"environment.h"
+	<cstdlib>
+	<iostream>
+
+1239980788 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\environment.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"stdlib.h"
+	"environment.h"
+	"random_num_gen.h"
+	"include/GL/glui.h"
+
+1238541404 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\evaluator.cpp
+	"evaluator.h"
+	"environment.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui.cpp
+	"glui_internal_control.h"
+
+1152201212 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_internal_control.h
+	"GL/glui.h"
+	"glui_internal.h"
+
+1120528640 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_internal.h
+	<cstdio>
+	<cmath>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_bitmap_img_data.cpp
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_bitmaps.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_button.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_column.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_control.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_edittext.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1240413832 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_filebrowser.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<sys/types.h>
+	<dirent.h>
+	<unistd.h>
+	<windows.h>
+	<sys/stat.h>
+	<iostream>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_list.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<sys/timeb.h>
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_node.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1208456570 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_panel.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_radio.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_rollout.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_scrollbar.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_spinner.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_statictext.cpp
+	"glui_internal_control.h"
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_string.cpp
+	"GL/glui.h"
+	<stdarg.h>
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_window.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1236164460 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\main.cpp
+	"GUI.h"
+
+1236081600 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\random_num_gen.cpp
+	<iostream>
+	<stdlib.h>
+	"random_num_gen.h"
+	"evaluator.h"
+	"environment.h"
+
+1240417346 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\gui.cpp
+	<fstream>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<windows.h>
+	"GUI.h"
+	<stdlib.h>
+	"random_num_gen.h"
+	"environment.h"
+	"agent.h"
+	"evaluator.h"
+
+1238544998 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\gui.h
+	<fstream>
+	"include/GL/glui.h"
+
+1208862122 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\gl\glui.h
+	"openglut.h"
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1207925790 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\gl\openglut.h
+	"openglut_std.h"
+	"openglut_ext.h"
+
+1208463942 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\gl\openglut_std.h
+	<windows.h>
+	"gl.h"
+	"glu.h"
+
+1107066920 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\gl\gl.h
+
+1208464014 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\gl\glu.h
+	<stddef.h>
+	"gl.h"
+
+1207925790 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\gl\openglut_ext.h
+
+1235579588 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\random_num_gen.h
+	<vector>
+
+1237152940 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\environment.h
+	<fstream>
+	"agent.h"
+
+1332869286 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\agent.h
+	<string>
+
+1237287372 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\evaluator.h
+	"agent.h"
+
+1332869398 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\agent.cpp
+	"agent.h"
+	"environment.h"
+	<cstdlib>
+	<vector>
+	<utility>
+
+1239984388 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\environment.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"stdlib.h"
+	"environment.h"
+	"random_num_gen.h"
+	"include/GL/glui.h"
+
+1238545004 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\evaluator.cpp
+	"evaluator.h"
+	"environment.h"
+
+1152204176 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui.cpp
+	"glui_internal_control.h"
+
+1152204812 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_internal_control.h
+	"GL/glui.h"
+	"glui_internal.h"
+
+1120532240 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_internal.h
+	<cstdio>
+	<cmath>
+
+1152204176 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_bitmap_img_data.cpp
+
+1152204176 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_bitmaps.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<cassert>
+
+1152204176 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_button.cpp
+	"glui_internal_control.h"
+
+1152204176 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_column.cpp
+	"glui_internal_control.h"
+
+1152204176 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_control.cpp
+	"glui_internal_control.h"
+
+1152204176 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_edittext.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1240417432 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_filebrowser.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<sys/types.h>
+	<dirent.h>
+	<unistd.h>
+	<windows.h>
+	<sys/stat.h>
+	<iostream>
+
+1152204176 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_list.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<sys/timeb.h>
+
+1120538608 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_node.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1208460170 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_panel.cpp
+	"glui_internal_control.h"
+
+1152204176 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_radio.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1152204176 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_rollout.cpp
+	"glui_internal_control.h"
+
+1152204176 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_scrollbar.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152204176 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_spinner.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152204176 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_statictext.cpp
+	"glui_internal_control.h"
+
+1120538608 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_string.cpp
+	"GL/glui.h"
+	<stdarg.h>
+
+1120538608 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_window.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1236168060 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\main.cpp
+	"GUI.h"
+
+1236085200 source:c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\random_num_gen.cpp
+	<iostream>
+	<stdlib.h>
+	"random_num_gen.h"
+	"evaluator.h"
+	"environment.h"
+
+1332267792 c:\documents and settings\raul\mis documentos\docencia\ia\2011_12\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\mapa.h
+	<iostream>
+
+1240413746 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\gui.cpp
+	<fstream>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<windows.h>
+	"GUI.h"
+	<stdlib.h>
+	"random_num_gen.h"
+	"environment.h"
+	"agent.h"
+	"evaluator.h"
+
+1238541398 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\gui.h
+	<fstream>
+	"include/GL/glui.h"
+
+1208858522 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\gl\glui.h
+	"openglut.h"
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1207922190 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\gl\openglut.h
+	"openglut_std.h"
+	"openglut_ext.h"
+
+1208460342 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\gl\openglut_std.h
+	<windows.h>
+	"gl.h"
+	"glu.h"
+
+1107063320 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\gl\gl.h
+
+1208460414 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\gl\glu.h
+	<stddef.h>
+	"gl.h"
+
+1207922190 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\gl\openglut_ext.h
+
+1235575988 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\random_num_gen.h
+	<vector>
+
+1361989290 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\environment.h
+	<fstream>
+	"agent.h"
+
+1362130390 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\agent.h
+	<string>
+
+1237283772 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\evaluator.h
+	"agent.h"
+
+1238541404 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\evaluator.cpp
+	"evaluator.h"
+	"environment.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui.cpp
+	"glui_internal_control.h"
+
+1152201212 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_internal_control.h
+	"GL/glui.h"
+	"glui_internal.h"
+
+1120528640 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_internal.h
+	<cstdio>
+	<cmath>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_bitmap_img_data.cpp
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_bitmaps.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_button.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_column.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_control.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_edittext.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1240413832 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_filebrowser.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<sys/types.h>
+	<dirent.h>
+	<unistd.h>
+	<windows.h>
+	<sys/stat.h>
+	<iostream>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_list.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<sys/timeb.h>
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_node.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1208456570 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_panel.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_radio.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_rollout.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_scrollbar.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_spinner.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_statictext.cpp
+	"glui_internal_control.h"
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_string.cpp
+	"GL/glui.h"
+	<stdarg.h>
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\include\glui_window.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1236164460 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\main.cpp
+	"GUI.h"
+
+1236081600 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\random_num_gen.cpp
+	<iostream>
+	<stdlib.h>
+	"random_num_gen.h"
+	"evaluator.h"
+	"environment.h"
+
+1362130642 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\agent.cpp
+	"agent.h"
+	"environment.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+	<utility>
+
+1362131191 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-gui-r3a\environment.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"stdlib.h"
+	"environment.h"
+	"random_num_gen.h"
+	"include/GL/glui.h"
+
+1240413746 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\gui.cpp
+	<fstream>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<windows.h>
+	"GUI.h"
+	<stdlib.h>
+	"random_num_gen.h"
+	"environment.h"
+	"agent.h"
+	"evaluator.h"
+
+1238541398 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\gui.h
+	<fstream>
+	"include/GL/glui.h"
+
+1208858522 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\gl\glui.h
+	"openglut.h"
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1207922190 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\gl\openglut.h
+	"openglut_std.h"
+	"openglut_ext.h"
+
+1208460342 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\gl\openglut_std.h
+	<windows.h>
+	"gl.h"
+	"glu.h"
+
+1107063320 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\gl\gl.h
+
+1208460414 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\gl\glu.h
+	<stddef.h>
+	"gl.h"
+
+1207922190 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\gl\openglut_ext.h
+
+1235575988 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\random_num_gen.h
+	<vector>
+
+1361989290 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\environment.h
+	<fstream>
+	"agent.h"
+
+1362138713 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\agent.h
+	<string>
+
+1237283772 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\evaluator.h
+	"agent.h"
+
+1362131191 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\environment.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"stdlib.h"
+	"environment.h"
+	"random_num_gen.h"
+	"include/GL/glui.h"
+
+1362131650 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\evaluator.cpp
+	"evaluator.h"
+	"environment.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\glui.cpp
+	"glui_internal_control.h"
+
+1152201212 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\glui_internal_control.h
+	"GL/glui.h"
+	"glui_internal.h"
+
+1120528640 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\glui_internal.h
+	<cstdio>
+	<cmath>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\glui_bitmap_img_data.cpp
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\glui_bitmaps.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\glui_button.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\glui_column.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\glui_control.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\glui_edittext.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1240413832 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\glui_filebrowser.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<sys/types.h>
+	<dirent.h>
+	<unistd.h>
+	<windows.h>
+	<sys/stat.h>
+	<iostream>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\glui_list.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<sys/timeb.h>
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\glui_node.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1208456570 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\glui_panel.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\glui_radio.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\glui_rollout.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\glui_scrollbar.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\glui_spinner.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\glui_statictext.cpp
+	"glui_internal_control.h"
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\glui_string.cpp
+	"GL/glui.h"
+	<stdarg.h>
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\include\glui_window.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1236164460 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\main.cpp
+	"GUI.h"
+
+1236081600 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\experimentacion practica 1\agent-p1_2012\random_num_gen.cpp
+	<iostream>
+	<stdlib.h>
+	"random_num_gen.h"
+	"evaluator.h"
+	"environment.h"
+
+1240413746 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\gui.cpp
+	<fstream>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<windows.h>
+	"GUI.h"
+	<stdlib.h>
+	"random_num_gen.h"
+	"environment.h"
+	"agent.h"
+	"evaluator.h"
+
+1238541398 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\gui.h
+	<fstream>
+	"include/GL/glui.h"
+
+1208858522 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\gl\glui.h
+	"openglut.h"
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1207922190 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\gl\openglut.h
+	"openglut_std.h"
+	"openglut_ext.h"
+
+1208460342 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\gl\openglut_std.h
+	<windows.h>
+	"gl.h"
+	"glu.h"
+
+1107063320 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\gl\gl.h
+
+1208460414 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\gl\glu.h
+	<stddef.h>
+	"gl.h"
+
+1207922190 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\gl\openglut_ext.h
+
+1235575988 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\random_num_gen.h
+	<vector>
+
+1361989290 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\environment.h
+	<fstream>
+	"agent.h"
+
+1395826092 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\agent.h
+	<string>
+	<iostream>
+
+1237283772 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\evaluator.h
+	"agent.h"
+
+1362131191 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\environment.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"stdlib.h"
+	"environment.h"
+	"random_num_gen.h"
+	"include/GL/glui.h"
+
+1362131650 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\evaluator.cpp
+	"evaluator.h"
+	"environment.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\glui.cpp
+	"glui_internal_control.h"
+
+1152201212 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\glui_internal_control.h
+	"GL/glui.h"
+	"glui_internal.h"
+
+1120528640 c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\glui_internal.h
+	<cstdio>
+	<cmath>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\glui_bitmap_img_data.cpp
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\glui_bitmaps.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\glui_button.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\glui_column.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\glui_control.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\glui_edittext.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1240413832 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\glui_filebrowser.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<sys/types.h>
+	<dirent.h>
+	<unistd.h>
+	<windows.h>
+	<sys/stat.h>
+	<iostream>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\glui_list.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<sys/timeb.h>
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\glui_node.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1208456570 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\glui_panel.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\glui_radio.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\glui_rollout.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\glui_scrollbar.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\glui_spinner.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\glui_statictext.cpp
+	"glui_internal_control.h"
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\glui_string.cpp
+	"GL/glui.h"
+	<stdarg.h>
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\include\glui_window.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1236164460 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\main.cpp
+	"GUI.h"
+
+1236081600 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\random_num_gen.cpp
+	<iostream>
+	<stdlib.h>
+	"random_num_gen.h"
+	"evaluator.h"
+	"environment.h"
+
+1395825292 source:c:\documents and settings\raul\mis documentos\docencia\ia\2012_13\practicas\practica1\practica1ia\practica1ia\materialprofesor\agent-p1_2012\agent.cpp
+	"agent.h"
+	"environment.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+	<utility>
+
+1240413746 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\gui.cpp
+	<fstream>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<windows.h>
+	"GUI.h"
+	<stdlib.h>
+	"random_num_gen.h"
+	"environment.h"
+	"agent.h"
+	"evaluator.h"
+
+1238541398 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\gui.h
+	<fstream>
+	"include/GL/glui.h"
+
+1208858522 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\gl\glui.h
+	"openglut.h"
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1207922190 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\gl\openglut.h
+	"openglut_std.h"
+	"openglut_ext.h"
+
+1208460342 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\gl\openglut_std.h
+	<windows.h>
+	"gl.h"
+	"glu.h"
+
+1107063320 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\gl\gl.h
+
+1208460414 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\gl\glu.h
+	<stddef.h>
+	"gl.h"
+
+1207922190 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\gl\openglut_ext.h
+
+1235575988 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\random_num_gen.h
+	<vector>
+
+1361989290 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\environment.h
+	<fstream>
+	"agent.h"
+
+1395828156 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\agent.h
+	<string>
+	<iostream>
+
+1237283772 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\evaluator.h
+	"agent.h"
+
+1395826481 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\agent.cpp
+	"agent.h"
+	"environment.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+	<utility>
+
+1362131650 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\evaluator.cpp
+	"evaluator.h"
+	"environment.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\glui.cpp
+	"glui_internal_control.h"
+
+1152201212 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\glui_internal_control.h
+	"GL/glui.h"
+	"glui_internal.h"
+
+1120528640 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\glui_internal.h
+	<cstdio>
+	<cmath>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\glui_bitmap_img_data.cpp
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\glui_bitmaps.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\glui_button.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\glui_column.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\glui_control.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\glui_edittext.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1240413832 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\glui_filebrowser.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<sys/types.h>
+	<dirent.h>
+	<unistd.h>
+	<windows.h>
+	<sys/stat.h>
+	<iostream>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\glui_list.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<sys/timeb.h>
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\glui_node.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1208456570 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\glui_panel.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\glui_radio.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\glui_rollout.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\glui_scrollbar.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\glui_spinner.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\glui_statictext.cpp
+	"glui_internal_control.h"
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\glui_string.cpp
+	"GL/glui.h"
+	<stdarg.h>
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\include\glui_window.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1236164460 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\main.cpp
+	"GUI.h"
+
+1236081600 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\random_num_gen.cpp
+	<iostream>
+	<stdlib.h>
+	"random_num_gen.h"
+	"evaluator.h"
+	"environment.h"
+
+1395827502 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4a\environment.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"stdlib.h"
+	"environment.h"
+	"random_num_gen.h"
+	"include/GL/glui.h"
+
+1240413746 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\gui.cpp
+	<fstream>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<windows.h>
+	"GUI.h"
+	<stdlib.h>
+	"random_num_gen.h"
+	"environment.h"
+	"agent.h"
+	"evaluator.h"
+
+1238541398 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\gui.h
+	<fstream>
+	"include/GL/glui.h"
+
+1208858522 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\gl\glui.h
+	"openglut.h"
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1207922190 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\gl\openglut.h
+	"openglut_std.h"
+	"openglut_ext.h"
+
+1208460342 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\gl\openglut_std.h
+	<windows.h>
+	"gl.h"
+	"glu.h"
+
+1107063320 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\gl\gl.h
+
+1208460414 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\gl\glu.h
+	<stddef.h>
+	"gl.h"
+
+1207922190 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\gl\openglut_ext.h
+
+1235575988 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\random_num_gen.h
+	<vector>
+
+1395831888 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\environment.h
+	<fstream>
+	"agent.h"
+
+1395835222 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\agent.h
+	<string>
+	<iostream>
+
+1237283772 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\evaluator.h
+	"agent.h"
+
+1395833383 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\environment.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"stdlib.h"
+	"environment.h"
+	"random_num_gen.h"
+	"include/GL/glui.h"
+
+1362131650 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\evaluator.cpp
+	"evaluator.h"
+	"environment.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\glui.cpp
+	"glui_internal_control.h"
+
+1152201212 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\glui_internal_control.h
+	"GL/glui.h"
+	"glui_internal.h"
+
+1120528640 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\glui_internal.h
+	<cstdio>
+	<cmath>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\glui_bitmap_img_data.cpp
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\glui_bitmaps.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\glui_button.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\glui_column.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\glui_control.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\glui_edittext.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1240413832 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\glui_filebrowser.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<sys/types.h>
+	<dirent.h>
+	<unistd.h>
+	<windows.h>
+	<sys/stat.h>
+	<iostream>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\glui_list.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<sys/timeb.h>
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\glui_node.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1208456570 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\glui_panel.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\glui_radio.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\glui_rollout.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\glui_scrollbar.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\glui_spinner.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\glui_statictext.cpp
+	"glui_internal_control.h"
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\glui_string.cpp
+	"GL/glui.h"
+	<stdarg.h>
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\include\glui_window.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1236164460 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\main.cpp
+	"GUI.h"
+
+1236081600 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\random_num_gen.cpp
+	<iostream>
+	<stdlib.h>
+	"random_num_gen.h"
+	"evaluator.h"
+	"environment.h"
+
+1395833825 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4b\agent.cpp
+	"agent.h"
+	"environment.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+	<utility>
+
+1240413746 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\gui.cpp
+	<fstream>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<windows.h>
+	"GUI.h"
+	<stdlib.h>
+	"random_num_gen.h"
+	"environment.h"
+	"agent.h"
+	"evaluator.h"
+
+1238541398 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\gui.h
+	<fstream>
+	"include/GL/glui.h"
+
+1208858522 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\gl\glui.h
+	"openglut.h"
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1207922190 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\gl\openglut.h
+	"openglut_std.h"
+	"openglut_ext.h"
+
+1208460342 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\gl\openglut_std.h
+	<windows.h>
+	"gl.h"
+	"glu.h"
+
+1107063320 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\gl\gl.h
+
+1208460414 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\gl\glu.h
+	<stddef.h>
+	"gl.h"
+
+1207922190 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\gl\openglut_ext.h
+
+1235575988 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\random_num_gen.h
+	<vector>
+
+1395860800 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\environment.h
+	<fstream>
+	"agent.h"
+
+1395852626 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\agent.h
+	<string>
+	<iostream>
+
+1237283772 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\evaluator.h
+	"agent.h"
+
+1395859168 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\agent.cpp
+	"agent.h"
+	"environment.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+	<utility>
+
+1362131650 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\evaluator.cpp
+	"evaluator.h"
+	"environment.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\glui.cpp
+	"glui_internal_control.h"
+
+1152201212 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\glui_internal_control.h
+	"GL/glui.h"
+	"glui_internal.h"
+
+1120528640 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\glui_internal.h
+	<cstdio>
+	<cmath>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\glui_bitmap_img_data.cpp
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\glui_bitmaps.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\glui_button.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\glui_column.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\glui_control.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\glui_edittext.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1240413832 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\glui_filebrowser.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<sys/types.h>
+	<dirent.h>
+	<unistd.h>
+	<windows.h>
+	<sys/stat.h>
+	<iostream>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\glui_list.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<sys/timeb.h>
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\glui_node.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1208456570 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\glui_panel.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\glui_radio.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\glui_rollout.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\glui_scrollbar.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\glui_spinner.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\glui_statictext.cpp
+	"glui_internal_control.h"
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\glui_string.cpp
+	"GL/glui.h"
+	<stdarg.h>
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\include\glui_window.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1236164460 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\main.cpp
+	"GUI.h"
+
+1236081600 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\random_num_gen.cpp
+	<iostream>
+	<stdlib.h>
+	"random_num_gen.h"
+	"evaluator.h"
+	"environment.h"
+
+1395860716 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4c\environment.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"stdlib.h"
+	"environment.h"
+	"random_num_gen.h"
+	"include/GL/glui.h"
+
+1240413746 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\gui.cpp
+	<fstream>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<windows.h>
+	"GUI.h"
+	<stdlib.h>
+	"random_num_gen.h"
+	"environment.h"
+	"agent.h"
+	"evaluator.h"
+
+1238541398 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\gui.h
+	<fstream>
+	"include/GL/glui.h"
+
+1208858522 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\gl\glui.h
+	"openglut.h"
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1207922190 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\gl\openglut.h
+	"openglut_std.h"
+	"openglut_ext.h"
+
+1208460342 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\gl\openglut_std.h
+	<windows.h>
+	"gl.h"
+	"glu.h"
+
+1107063320 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\gl\gl.h
+
+1208460414 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\gl\glu.h
+	<stddef.h>
+	"gl.h"
+
+1207922190 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\gl\openglut_ext.h
+
+1235575988 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\random_num_gen.h
+	<vector>
+
+1395860802 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\environment.h
+	<fstream>
+	"agent.h"
+
+1395852628 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\agent.h
+	<string>
+	<iostream>
+
+1237283772 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\evaluator.h
+	"agent.h"
+
+1395863260 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\agent.cpp
+	"agent.h"
+	"environment.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+	<utility>
+
+1395861020 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\environment.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"stdlib.h"
+	"environment.h"
+	"random_num_gen.h"
+	"include/GL/glui.h"
+
+1362131652 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\evaluator.cpp
+	"evaluator.h"
+	"environment.h"
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\glui.cpp
+	"glui_internal_control.h"
+
+1152201212 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\glui_internal_control.h
+	"GL/glui.h"
+	"glui_internal.h"
+
+1120528640 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\glui_internal.h
+	<cstdio>
+	<cmath>
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\glui_bitmap_img_data.cpp
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\glui_bitmaps.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<cassert>
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\glui_button.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\glui_column.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\glui_control.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\glui_edittext.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1240413832 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\glui_filebrowser.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<sys/types.h>
+	<dirent.h>
+	<unistd.h>
+	<windows.h>
+	<sys/stat.h>
+	<iostream>
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\glui_list.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<sys/timeb.h>
+
+1120535008 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\glui_node.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1208456570 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\glui_panel.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\glui_radio.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\glui_rollout.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\glui_scrollbar.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\glui_spinner.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\glui_statictext.cpp
+	"glui_internal_control.h"
+
+1120535008 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\glui_string.cpp
+	"GL/glui.h"
+	<stdarg.h>
+
+1120535008 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\include\glui_window.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1236164460 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\main.cpp
+	"GUI.h"
+
+1236081600 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4c\random_num_gen.cpp
+	<iostream>
+	<stdlib.h>
+	"random_num_gen.h"
+	"evaluator.h"
+	"environment.h"
+
+1240413746 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\gui.cpp
+	<fstream>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<windows.h>
+	"GUI.h"
+	<stdlib.h>
+	"random_num_gen.h"
+	"environment.h"
+	"agent.h"
+	"evaluator.h"
+
+1238541398 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\gui.h
+	<fstream>
+	"include/GL/glui.h"
+
+1208858522 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\gl\glui.h
+	"openglut.h"
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1207922190 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\gl\openglut.h
+	"openglut_std.h"
+	"openglut_ext.h"
+
+1208460342 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\gl\openglut_std.h
+	<windows.h>
+	"gl.h"
+	"glu.h"
+
+1107063320 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\gl\gl.h
+
+1208460414 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\gl\glu.h
+	<stddef.h>
+	"gl.h"
+
+1207922190 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\gl\openglut_ext.h
+
+1235575988 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\random_num_gen.h
+	<vector>
+
+1395860802 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\environment.h
+	<fstream>
+	"agent.h"
+
+1395864413 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\agent.h
+	<string>
+	<iostream>
+
+1237283772 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\evaluator.h
+	"agent.h"
+
+1395863554 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\environment.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"stdlib.h"
+	"environment.h"
+	"random_num_gen.h"
+	"include/GL/glui.h"
+
+1362131652 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\evaluator.cpp
+	"evaluator.h"
+	"environment.h"
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\glui.cpp
+	"glui_internal_control.h"
+
+1152201212 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\glui_internal_control.h
+	"GL/glui.h"
+	"glui_internal.h"
+
+1120528640 c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\glui_internal.h
+	<cstdio>
+	<cmath>
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\glui_bitmap_img_data.cpp
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\glui_bitmaps.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<cassert>
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\glui_button.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\glui_column.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\glui_control.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\glui_edittext.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1240413832 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\glui_filebrowser.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<sys/types.h>
+	<dirent.h>
+	<unistd.h>
+	<windows.h>
+	<sys/stat.h>
+	<iostream>
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\glui_list.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<sys/timeb.h>
+
+1120535008 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\glui_node.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1208456570 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\glui_panel.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\glui_radio.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\glui_rollout.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\glui_scrollbar.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\glui_spinner.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\glui_statictext.cpp
+	"glui_internal_control.h"
+
+1120535008 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\glui_string.cpp
+	"GL/glui.h"
+	<stdarg.h>
+
+1120535008 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\include\glui_window.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1236164460 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\main.cpp
+	"GUI.h"
+
+1236081600 source:c:\users\fgr\documents\ia2013_14\relacion1\ejercicio4a\random_num_gen.cpp
+	<iostream>
+	<stdlib.h>
+	"random_num_gen.h"
+	"evaluator.h"
+	"environment.h"
+
+1240413746 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\gui.cpp
+	<fstream>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<windows.h>
+	"GUI.h"
+	<stdlib.h>
+	"random_num_gen.h"
+	"environment.h"
+	"agent.h"
+	"evaluator.h"
+
+1238541398 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\gui.h
+	<fstream>
+	"include/GL/glui.h"
+
+1208858522 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\gl\glui.h
+	"openglut.h"
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1207922190 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\gl\openglut.h
+	"openglut_std.h"
+	"openglut_ext.h"
+
+1208460342 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\gl\openglut_std.h
+	<windows.h>
+	"gl.h"
+	"glu.h"
+
+1107063320 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\gl\gl.h
+
+1208460414 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\gl\glu.h
+	<stddef.h>
+	"gl.h"
+
+1207922190 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\gl\openglut_ext.h
+
+1235575988 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\random_num_gen.h
+	<vector>
+
+1395860802 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\environment.h
+	<fstream>
+	"agent.h"
+
+1396001176 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\agent.h
+	<string>
+	<iostream>
+
+1237283772 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\evaluator.h
+	"agent.h"
+
+1395864278 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\environment.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"stdlib.h"
+	"environment.h"
+	"random_num_gen.h"
+	"include/GL/glui.h"
+
+1362131652 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\evaluator.cpp
+	"evaluator.h"
+	"environment.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\glui.cpp
+	"glui_internal_control.h"
+
+1152201212 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\glui_internal_control.h
+	"GL/glui.h"
+	"glui_internal.h"
+
+1120528640 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\glui_internal.h
+	<cstdio>
+	<cmath>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\glui_bitmap_img_data.cpp
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\glui_bitmaps.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\glui_button.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\glui_column.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\glui_control.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\glui_edittext.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1240413832 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\glui_filebrowser.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<sys/types.h>
+	<dirent.h>
+	<unistd.h>
+	<windows.h>
+	<sys/stat.h>
+	<iostream>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\glui_list.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<sys/timeb.h>
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\glui_node.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1208456570 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\glui_panel.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\glui_radio.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\glui_rollout.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\glui_scrollbar.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\glui_spinner.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\glui_statictext.cpp
+	"glui_internal_control.h"
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\glui_string.cpp
+	"GL/glui.h"
+	<stdarg.h>
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\include\glui_window.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1236164460 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\main.cpp
+	"GUI.h"
+
+1236081600 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio4\random_num_gen.cpp
+	<iostream>
+	<stdlib.h>
+	"random_num_gen.h"
+	"evaluator.h"
+	"environment.h"
+
+1396002648 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\gui.cpp
+	<fstream>
+	<sstream>
+	<iomanip>
+	<iostream>
+	<windows.h>
+	"GUI.h"
+	<stdlib.h>
+	"random_num_gen.h"
+	"environment.h"
+	"agent.h"
+	"evaluator.h"
+
+1238541398 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\gui.h
+	<fstream>
+	"include/GL/glui.h"
+
+1208858522 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\gl\glui.h
+	"openglut.h"
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1207922190 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\gl\openglut.h
+	"openglut_std.h"
+	"openglut_ext.h"
+
+1208460342 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\gl\openglut_std.h
+	<windows.h>
+	"gl.h"
+	"glu.h"
+
+1107063320 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\gl\gl.h
+
+1208460414 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\gl\glu.h
+	<stddef.h>
+	"gl.h"
+
+1207922190 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\gl\openglut_ext.h
+
+1235575988 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\random_num_gen.h
+	<vector>
+
+1396003009 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\environment.h
+	<fstream>
+	"agent.h"
+
+1396002059 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\agent.h
+	<string>
+	<iostream>
+
+1237283772 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\evaluator.h
+	"agent.h"
+
+1396002853 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\agent.cpp
+	"agent.h"
+	"environment.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+	<utility>
+
+1396002593 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\environment.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"stdlib.h"
+	"environment.h"
+	"random_num_gen.h"
+	"include/GL/glui.h"
+
+1396003033 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\evaluator.cpp
+	"evaluator.h"
+	"environment.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\glui.cpp
+	"glui_internal_control.h"
+
+1152201212 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\glui_internal_control.h
+	"GL/glui.h"
+	"glui_internal.h"
+
+1120528640 c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\glui_internal.h
+	<cstdio>
+	<cmath>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\glui_bitmap_img_data.cpp
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\glui_bitmaps.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\glui_button.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\glui_column.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\glui_control.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\glui_edittext.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1240413832 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\glui_filebrowser.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+	<sys/types.h>
+	<dirent.h>
+	<unistd.h>
+	<windows.h>
+	<sys/stat.h>
+	<iostream>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\glui_list.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<sys/timeb.h>
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\glui_node.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1208456570 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\glui_panel.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\glui_radio.cpp
+	"glui_internal_control.h"
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\glui_rollout.cpp
+	"glui_internal_control.h"
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\glui_scrollbar.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\glui_spinner.cpp
+	"glui_internal_control.h"
+	<cmath>
+	<cassert>
+
+1152200576 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\glui_statictext.cpp
+	"glui_internal_control.h"
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\glui_string.cpp
+	"GL/glui.h"
+	<stdarg.h>
+
+1120535008 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\include\glui_window.cpp
+	"GL/glui.h"
+	"glui_internal.h"
+
+1236164460 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\main.cpp
+	"GUI.h"
+
+1236081600 source:c:\documents and settings\raul\mis documentos\docencia\ia\2013_14\relacionesproblemas\relacion 1_agentesreactivos\ejercicio5\random_num_gen.cpp
+	<iostream>
+	<stdlib.h>
+	"random_num_gen.h"
+	"evaluator.h"
+	"environment.h"
+
